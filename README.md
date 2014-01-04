@@ -14,3 +14,14 @@ localhost:8000/
 ```
 all done!
 
+EDIT: To test the Bootstrap template:
+
+```
+cd lcsc-webdev/bootstrap
+python -m SimpleHTTPServer
+```
+navigate to
+```
+localhost:8000/
+```
+done.
